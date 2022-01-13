@@ -1,9 +1,14 @@
+from utils import data_loader
+
 
 
 
 
 if __name__ == "__main__":
-    print("hi")
+    path = ""
+    df = data_loader(path)
+    print(df)
+    #print("hi")
 """
 TODO : 
 
