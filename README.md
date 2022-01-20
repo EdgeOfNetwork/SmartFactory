@@ -17,3 +17,6 @@ Domain Adaptation
   
 KAMP  
 : 
+  
+signals  
+:  SSA(Singular Spectrum Anaylsis)  
