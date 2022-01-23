@@ -20,3 +20,5 @@ KAMP
   
 signals  
 :  SSA(Singular Spectrum Anaylsis)  
+
+ㅎ으흠넝헝흥흐ㅓㅇㅎ엏읗마ㅣㅇㅎㄴ
