@@ -1,6 +1,9 @@
 import pandas as pd
 import os
 
+
+
+
 # class DATALOADER:
 #   def __init__(self, sth):
 #     self.sth = sth
@@ -99,3 +102,9 @@ def cwru_12khz(path):
   matlab_files_name["DEOR@12_021_2"] = "../input/cwru-bearing-dataset-mat/260.mat"
   matlab_files_name["DEOR@12_021_3"] = "../input/cwru-bearing-dataset-mat/261.mat"
   return matlab_files_name
+
+import tensorflow
+from tensorflow.keras.datasets import fashion_mnist
+
+def data_loader_fashionmnist():
+  return fashion_mnist.load_data()
