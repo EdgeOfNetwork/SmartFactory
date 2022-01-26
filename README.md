@@ -7,7 +7,7 @@ BADUPBDL
 Bearing_fault  
 : experiments codes   
 
-"""
+====================================
 TODO : 
 DAE + DCNN 으로 검출해보기
 0. CWRU 데이터 EDA 및 데이터 로딩 등 데이터 성질 파악 
@@ -29,7 +29,7 @@ TODO :
 3. 성능 파악 및 시각화 요소 파악
 4. 
  
-"""
+=================================
   
 
 1차 -> DAE-DCNN Classification 관련내용 모듈화 코드 진행 및 실험 진행  
