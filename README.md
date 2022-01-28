@@ -27,12 +27,9 @@ SSA를 할꺼면 1D에다가 넣어야할 꺼 아닌가
 1. DAE와 DCNN모델 CLASS화 하기  
 2. 인공지능 모델에 CWRU 데이터 적용  
 3. 성능 파악 및 시각화 요소 파악  
-   
 =================================  
   
-
 1차 -> DAE-DCNN Classification 관련내용 모듈화 코드 진행 및 실험 진행  
-  
   
 Domain Adaptation  
 :  
