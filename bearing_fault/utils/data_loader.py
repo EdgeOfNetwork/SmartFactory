@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-
+import numpy as np
 
 
 
@@ -108,3 +108,9 @@ from tensorflow.keras.datasets import fashion_mnist
 
 def data_loader_fashionmnist():
   return fashion_mnist.load_data()
+
+def readucr(filename):
+  data = np.loadtxt(filename, delimiter="\t")
+  y = data[:, 0]
+  x = data[:, 1:]
+  return x, y.astype(int)
