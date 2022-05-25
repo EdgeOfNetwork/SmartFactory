@@ -2,7 +2,7 @@
 
 BADUPBDL  
 : Beginning Anomaly Detection Using Python-based DeepLearning    
-서평 : 솔직히 모르겠다  
+서평 : 내용이 너무 흔함
 
 Bearing_fault  
 : experiments codes   
